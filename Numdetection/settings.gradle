@@ -1,0 +1,3 @@
+rootProject.name='Numdetection'
+include ':app'
+include ':openCVLibrary343'
